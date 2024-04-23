@@ -1,0 +1,4 @@
+../Inc/i2c.c:36:6:i2c_ini	4	static
+../Inc/i2c.c:44:6:i2c_start	16	static
+../Inc/i2c.c:64:9:i2c_recieve	16	static
+../Inc/i2c.c:83:6:i2c_stop	4	static

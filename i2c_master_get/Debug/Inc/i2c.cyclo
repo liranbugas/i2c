@@ -1,0 +1,4 @@
+i2c.c:36:6:i2c_ini	1
+i2c.c:44:6:i2c_start	2
+i2c.c:64:9:i2c_recieve	2
+i2c.c:83:6:i2c_stop	1
